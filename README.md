@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Zzeris/Zzeris/main/Design%20sem%20nome1.gif?raw=true" width="250" height="250" />
 <!--
 **Zzeris/Zzeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
