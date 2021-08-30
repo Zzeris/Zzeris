@@ -1,5 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<h4>Connect with me: <a href="https://linkedin.com/in/jluiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jluiz" height="25" width="35" /></a>
+<a href="https://instagram.com/jluizpsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jluizpsantos" height="25" width="35" /></a></h4>
+
 <img alt="GIF" src="https://raw.githubusercontent.com/Zzeris/Zzeris/main/Design%20sem%20nome1.gif" width="135" height="135" align="left"/>
 Hi, i'm José Luiz, full stack web developer from Brazil and a technology enthusiast since 2008.
 
@@ -10,11 +13,6 @@ Hi, i'm José Luiz, full stack web developer from Brazil and a technology enthus
 
 <p><img align="center" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzeris&show_icons=true&locale=en&layout=compact&theme=gotham" alt="zzeris" /></p>
 
-<h4>Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/jluiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jluiz" height="30" width="40" /></a>
-<a href="https://instagram.com/jluizpsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jluizpsantos" height="30" width="40" /></a>
-</p>
 
 <!--
 **Zzeris/Zzeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
