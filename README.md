@@ -10,7 +10,6 @@ Hi, i'm José Luiz, full stack web developer from Brazil and a technology enthus
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzeris&show_icons=true&locale=en&layout=compact&theme=gotham" alt="zzeris" /></p>
 
-##
 <h4>Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/jluiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jluiz" height="30" width="40" /></a>
